@@ -1,0 +1,14 @@
+.titulo .h3 {
+       
+    color: darkgray;
+}
+.titulo .h1 {
+    color:lightgray;
+    
+}
+.portafolio {
+    color:lightgray;
+}
+.contenedorImagen{
+    display: none;
+}
